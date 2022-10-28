@@ -134,3 +134,4 @@ git merge feature
 - los samen het merge conflict op
 - add, commit, push
 - pull alletwee
+- hoi mijn naam is timmy
